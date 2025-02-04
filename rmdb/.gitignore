@@ -1,0 +1,6 @@
+build/
+rmdb_client/
+src/parser/lex.yy.cpp
+src/parser/lex.yy.hpp
+src/parser/yacc.tab.hpp
+src/parser/yacc.tab.cpp
